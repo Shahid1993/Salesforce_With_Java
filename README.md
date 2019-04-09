@@ -18,3 +18,14 @@ You can also click on Edit and then Save. This will take you to the same place.
 In Setup, navigate to App Manager  
 Find your Connected App in the list and select **View** from the associated pulldown list (on the far right of the list view)
 You can also select Edit and Save.
+
+
+
+### Replacing your Salesforce password with a password and security token
+
+**_Change to Salesforce Classic_**  
+In Setup, go to **[Your Profile DropDown] > My Settings > Change My Password > Reset My Security Token**.
+
+**_In Lightning Experience:_**  
+In Setup, go to **[Your Profile DropDown] > Settings > Reset My Security Token**.
+
