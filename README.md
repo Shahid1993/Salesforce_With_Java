@@ -21,7 +21,7 @@ You can also select Edit and Save.
 
 
 
-### Replacing your Salesforce password with a password and security token
+### [Replacing your Salesforce password with a password and security token](http://help.boomi.com/atomsphere/GUID-590C3D4B-0C9C-44BF-9C80-1DD3C6175F2B.html)
 
 **_Change to Salesforce Classic_**  
 In Setup, go to **[Your Profile DropDown] > My Settings > Change My Password > Reset My Security Token**.
