@@ -5,6 +5,7 @@ Sample Programs for Salesforce REST API with Java
 * [Step-By-Step Guide to Get Started with Salesforce REST API using Java](http://www.asagarwal.com/step-by-step-guide-to-get-started-with-salesforce-rest-api-using-java/)
 * [Connect your app to Salesforce](https://auth0.com/docs/connections/social/salesforce)
 * [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_sosl_intro.htm)
+* [SOQL Cheat Sheet](https://www.salesforceben.com/soql-cheat-sheet/)
 
 
 ### To view consumer key and consumer secret for connecting through REST APIs after app was already created
